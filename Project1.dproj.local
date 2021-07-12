@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/25 19:18:50.000.876,=C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/12 16:21:39.546,=C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/07/12 16:25:47.464,C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\unitPrincipal.dfm=C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2021/07/12 16:25:47.464,C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\unitPrincipal.pas=C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/07/12 16:26:01.198,C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\Project1.dproj=C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/07/12 16:32:59.287,=C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\Unit1.pas</Transaction>
+    <Transaction>2021/07/12 16:33:38.380,C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\unitDM.dfm=C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\Unit1.dfm</Transaction>
+    <Transaction>2021/07/12 16:33:38.380,C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\unitDM.pas=C:\Users\jhona\OneDrive\Área de Trabalho\Consultas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

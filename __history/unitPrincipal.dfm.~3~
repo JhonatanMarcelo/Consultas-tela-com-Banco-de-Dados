@@ -1,0 +1,62 @@
+﻿object Form4: TForm4
+  Left = 0
+  Top = 0
+  Caption = 'Consultas a Banco de Dados'
+  ClientHeight = 471
+  ClientWidth = 587
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblConsulta: TLabel
+    Left = 272
+    Top = 21
+    Width = 66
+    Height = 13
+    Caption = 'Digite o Nome'
+  end
+  object opçoes: TRadioGroup
+    Left = 24
+    Top = 24
+    Width = 225
+    Height = 49
+    Caption = 'Op'#231'oes de Consulta'
+    Columns = 2
+    Items.Strings = (
+      'Nome'
+      'Bairro')
+    TabOrder = 0
+  end
+  object txtTexto: TEdit
+    Left = 272
+    Top = 40
+    Width = 289
+    Height = 21
+    TabOrder = 1
+  end
+  object btRealizarConsulta: TButton
+    Left = 24
+    Top = 88
+    Width = 537
+    Height = 33
+    Caption = 'Realizar Consulta'
+    TabOrder = 2
+  end
+  object DBGrid1: TDBGrid
+    Left = 24
+    Top = 144
+    Width = 537
+    Height = 305
+    TabOrder = 3
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+end
